@@ -46,6 +46,14 @@ To run this project, install the required Python libraries:
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn mlxtend
 ```
 
+## Usage
+Clone the repository and run the Jupyter Notebook:
+
+```bash
+git clone https://github.com/anouskap/marketing.git
+cd Marketing-Insights-for-E-Commerce
+jupyter notebook
+
 ## Results & Findings
 - Identified key factors influencing customer retention and revenue.
 - **Decision Trees achieved 77% accuracy**, while **XGBoost reached 82%** in predicting customer lifetime value.
